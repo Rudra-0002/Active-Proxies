@@ -11,10 +11,10 @@ Active proxies is a tool to obtain proxies and verify if they are valid in real-
 -  Fallback Mechanism
 -  HTTP/s, SOCKS4 & SOCKS5  Active Scraper/
 
--  ## ⚠️ DISCLAIMER / NOTES
+## ⚠️ DISCLAIMER / NOTES
 This github repo is for EDUCATIONAL PURPOSES ONLY. We Are NOT under any responsibility if a problem occurs.
 
-- ## 👿 IMPORTANT
+## 👿 IMPORTANT
 I am using Free Proxy API So , If You Want More Accurate And Effecient Result:
    - Implement Paid/Premium API 
    - Otherwise  Manually Load Proxies.txt File With Paid/Premium Proxies
